@@ -4,5 +4,5 @@ export default defineNuxtConfig({
   ssr:true,
   devtools: { enabled: true },
   //应用模块
-  modules:["@vant/nuxt"]
+  modules:["@vant/nuxt"],
 })
